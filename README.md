@@ -1,2 +1,3 @@
 # My Python Projects
-This repository is my short project of python
+In this repository, I have my small python projects.
+
